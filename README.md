@@ -1,4 +1,4 @@
-# Decoding-Restaurant-Success-with-User-Engagement-
+# Decoding-Restaurant-Success-with-User-Engagement
 **Goal:** In a competitive market like the restaurant industry, understanding the factors that influence business success are crucial for stakeholders. Utilizing the Yelp dataset, this project aims to investigate the relationship between user engagement (reviews, tips, and check-ins) and to  analyze the impact of sentiment on review count and average star rating and time trends in User Engagement for restaurants. 
 
 **Approach:** Analyze Yelp data across 8 US/Canadian cities to: 
